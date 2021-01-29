@@ -1,1 +1,1 @@
-# digital_garden
+# Digital Garden
